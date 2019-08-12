@@ -9,6 +9,12 @@ body {
   }
 .my-container {
     margin-top:20px;
+    margin-bottom: 200px;
+    /* padding-right: 0; */
+  }
+  .my-card {
+    margin-top:20px;
+    /* margin-right:20px; */
   }
 h3 {
     font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif; 
@@ -45,4 +51,10 @@ form {
 }
 .sm-icon {
     margin: 0 5px;
+}
+.my-row {
+  margin-top:20px;
+}
+h5 {
+  font-weight: bold;
 }
