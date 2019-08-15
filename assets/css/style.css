@@ -9,13 +9,18 @@ body {
   }
 .my-container {
     margin-top:20px;
-    margin-bottom: 200px;
-    /* padding-right: 0; */
   }
-  .my-card {
+  .my-portfolio {
     margin-top:20px;
-    /* margin-right:20px; */
+    margin-bottom: 160px;
   }
+.my-card {
+  margin-top:20px;
+  margin-bottom: 160px;
+}
+.chrissy-img {
+  margin-bottom: 20px;
+}
 h3 {
     font-family: Gill Sans, Gill Sans MT, Calibri, sans-serif; 
     color: #9B2832;
