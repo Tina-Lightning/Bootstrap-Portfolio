@@ -10,6 +10,9 @@ body {
 .my-container {
     margin-top:20px;
   }
+  .container {
+    margin-bottom: 400px;
+  }
   .my-portfolio {
     margin-top:20px;
     margin-bottom: 160px;
@@ -40,28 +43,24 @@ form {
 .footer-text {
     color: white;
     text-align: center;
-    font-size: 75%;
+    font-size: 85%;
     margin-top:16px;
 }
 .sm-icons {
-    color: white;
-    text-align: center;
-    font-size: 150%;
+    margin-right: 100px;
+    font-size: 250%;
 }
 .sm-icons a {
-    color: white;
+  color: #C0C0C0;
 }
 .sm-icons a:hover {
     color: #CCC;
 }
-.sm-icon {
-    margin: 0 5px;
+.nav-item {
+  margin: 0 5px;
 }
 .my-row {
   margin-top:20px;
-}
-h5 {
-  font-weight: bold;
 }
 a {
   color: black;
@@ -70,4 +69,14 @@ a {
 a:hover {
   color: #9B2832;
   text-decoration: none;
+}
+.git-links {
+  font-weight: bold;
+  margin-top:30px;
+}
+.contact-me {
+  font-size:25%;
+}
+.about-me {
+  line-height: 175%;
 }
